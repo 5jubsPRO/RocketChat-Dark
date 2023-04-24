@@ -10,7 +10,7 @@
 /*! Rocket.Chat Dark v1.0.0 (2023-04-24) */
 /*! Repository: https://github.com/5jubsPRO/RocketChat-Dark */
 /*! License:    https://creativecommons.org/share-your-work/public-domain/cc0/ */
-@-moz-document domain("rocket.chat") {
+@-moz-document domain("rocket.chat"), domain("chat.deltasge.com.br:8000") {
       /* --- SIDEBAR --- */
 	  .rcx-sidebar {
         background-color: #000;
